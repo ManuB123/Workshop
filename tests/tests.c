@@ -9,7 +9,7 @@
 
 #include "tek.h"
 
-Test(FUNCTIONAL_TEST, bbbbbbbbbb)
+Test(FUNCTIONAL_TEST, maximator)
 {
     cr_assert_str_not_empty(get_sentence(0));
 }
