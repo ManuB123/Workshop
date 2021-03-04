@@ -9,7 +9,7 @@
 
 #include "tek.h"
 
-Test(FUNCTIONAL_TEST, aaaaaaaaa)
+Test(FUNCTIONAL_TEST, issou)
 {
     cr_assert_str_not_empty(get_sentence(0));
 }
