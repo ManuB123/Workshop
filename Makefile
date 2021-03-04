@@ -5,7 +5,7 @@
 ## Makefile
 ##
 
-NAME		=	tek1
+NAME		=	tek3
 
 TNAME		=	unit_tests
 
