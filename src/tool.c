@@ -36,6 +36,7 @@ static const char *STUDENT_SENTENCES[] = {
     "J'ai un bug que j'arrive pas à résoudre, c'est urgent",
     "J'ai une question ?",
     "Mama la nouvelle branche",
+    "ex05 mama",
 };
 
 const char *get_sentence(size_t index)
